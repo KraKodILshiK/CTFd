@@ -301,7 +301,7 @@ module.exports = (env, options) => {
 // Перевод на украинский
 const googleTranslateConfig = {
   /* Original language */
-  lang: "uk",
+  lang: "en",
   /* The language we translate into on the first visit*/
   /* Язык, на который переводим при первом посещении */
   // langFirstVisit: 'en',
